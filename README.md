@@ -20,16 +20,16 @@
     	Create a new account by providing a unique username and password.
   
 	Document Management:
- 		 Upload Document:
-    Select a file to upload. The document is hashed and stored securely.
+ 	 Upload Document:
+    		Select a file to upload. The document is hashed and stored securely.
   	Search Documents:
-    Enter keywords to search for documents.
+    		Enter keywords to search for documents.
   	View Document:
-    View document details, including file name, path, hash, and owner. You can also open the document.
+    		View document details, including file name, path, hash, and owner. You can also open the document.
   	Download Document:
-    Save a copy of the document to your local system.
+    		Save a copy of the document to your local system.
  	 Delete Document:
-    Delete a document that you own.
+    		Delete a document that you own.
   
 Evidence Management:
   Upload Evidence: Select a file and enter its urgency level (1-10). Evidences are packed based on urgency.
