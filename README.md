@@ -31,8 +31,10 @@
  	 Delete Document:
     		Delete a document that you own.
   
-Evidence Management:
-  Upload Evidence: Select a file and enter its urgency level (1-10). Evidences are packed based on urgency.
-  View Evidence Pack Details: Displays details of evidence packs sorted by urgency.
-  B+ Tree Implementation
-  The application uses a simple B+ Tree implementation to manage document keys, providing efficient insertion, deletion, and retrieval operations.
+	Evidence Management:
+ 	 Upload Evidence: 
+   		Select a file and enter its urgency level (1-10). Evidences are packed based on urgency.
+  	View Evidence Pack Details:
+   		Displays details of evidence packs sorted by urgency.
+  	B+ Tree Implementation
+  		The application uses a simple B+ Tree implementation to manage document keys, providing efficient insertion, deletion, and retrieval operations.
